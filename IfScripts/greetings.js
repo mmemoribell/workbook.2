@@ -1,4 +1,4 @@
-let day = 21;
+let day = 9;
 let message;
 
 if (day <= 10) {
